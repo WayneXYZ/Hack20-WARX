@@ -2,4 +2,4 @@
 This is the repo for team WARX of Hack'20.
 
 ## Team Members
-Xiao Liang, Rishab Patted, Ansh Nagda, Wayne Zhang
+Xiao Liang, Rishabh Patted, Ansh Nagda, Wayne Zhang
